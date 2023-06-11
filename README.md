@@ -1,1 +1,2 @@
-# python-linked-list
+pada minggu ini belajar tentang single linked list di yang definisinya yaitu adalah struktur data linear yang terdiri dari simpul-simpul yang terhubung satu arah secara berurutan. Setiap simpul pada linked list menyimpan data dan referensi. dengan 1 percobaan pertama yang di bantu langsung oleh pak bayu mulai dari menambahkan elemen, menghapus, mencetak, membuat dan mencetak dan menghapus dan mencetak. kemudian segala rumus percobaan itu di satukan dalam penyelesaian latihan dengan 5 latihan yang berbeda beda
+
